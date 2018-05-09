@@ -1,4 +1,4 @@
-package com.wucongyou.tifra.ioc;
+package com.wucongyou.tifra.ioc.core.io;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,6 @@
-package com.wucongyou.tifra.ioc;
+package com.wucongyou.tifra.ioc.factory.support;
+
+import com.wucongyou.tifra.ioc.factory.config.BeanDefinition;
 
 /**
  * @author congyou.wu

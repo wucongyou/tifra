@@ -1,4 +1,4 @@
-package com.wucongyou.tifra.ioc;
+package com.wucongyou.tifra.ioc.context;
 
 /**
  * @author congyou.wu

@@ -1,4 +1,4 @@
-package com.wucongyou.tifra.ioc;
+package com.wucongyou.tifra.ioc.factory.config;
 
 /**
  * @author congyou.wu

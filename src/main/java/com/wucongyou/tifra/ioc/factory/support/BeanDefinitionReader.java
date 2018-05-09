@@ -1,4 +1,7 @@
-package com.wucongyou.tifra.ioc;
+package com.wucongyou.tifra.ioc.factory.support;
+
+import com.wucongyou.tifra.ioc.core.io.Resource;
+import com.wucongyou.tifra.ioc.core.io.support.ResourceLoader;
 
 /**
  * @author congyou.wu
