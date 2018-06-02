@@ -1,0 +1,18 @@
+{
+  "beans": [
+    {
+      "name": "userDao",
+      "class": "com.wucongyou.tifra.ioc.examples.dao.impl.UserDaoImpl",
+      "singleton": true
+    },
+    {
+      "name": "userService",
+      "class": "com.wucongyou.tifra.ioc.examples.service.impl.UserServiceImpl",
+      "singleton": true
+    }
+  ],
+  "scan_packages": [
+    "com.wucongyou.tifra.ioc.examples.service.impl",
+    "com.wucongyou.tifra.ioc.examples.dao.impl"
+  ]
+}
